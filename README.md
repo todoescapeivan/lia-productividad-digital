@@ -24,3 +24,7 @@ lia-productividad-digital/
 │    ├── modulo3_monetizacion.md
 │    └── modulo4_seguridad_digital.md
 └── README.md
+
+## 🚀 Impacto
+Este repositorio es un recurso abierto y educativo.  
+La integración con IA convierte cada módulo en un proyecto completo: práctico, interpretativo y accesible para todos.
