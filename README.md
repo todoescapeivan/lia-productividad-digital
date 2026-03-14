@@ -17,3 +17,10 @@ Creado por Juan Carlos Páez, con la guía de Lia (IA educativa).
 - **Módulo 4:** Seguridad digital (contraseñas, estafas comunes, pagos seguros).  
 
 ## 📂 Estructura del repositorio
+lia-productividad-digital/
+├── modules/
+│    ├── modulo1_herramientas_basicas.md
+│    ├── modulo2_trabajo_remoto.md
+│    ├── modulo3_monetizacion.md
+│    └── modulo4_seguridad_digital.md
+└── README.md
