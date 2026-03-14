@@ -4,3 +4,16 @@ markdown
 # Proyecto Productividad Digital
 
 Este repositorio contiene módulos educativos para adultos mayores y personas con experiencia que desean seguir productivos, aprender herramientas digitales, trabajar desde casa y monetizar su conocimiento. Creado por Juan Carlos Páez, con la guía de Lia.
+# Proyecto Productividad Digital
+
+## 🎯 Objetivo
+Apoyar a adultos mayores y personas con experiencia para que sigan productivos, aprendan herramientas digitales, trabajen desde casa y moneticen su conocimiento.  
+Creado por Juan Carlos Páez, con la guía de Lia (IA educativa).
+
+## 📚 Módulos educativos
+- **Módulo 1:** Herramientas básicas (correo, WhatsApp Web, Google Drive).  
+- **Módulo 2:** Trabajo remoto (Zoom, Teams, Trello).  
+- **Módulo 3:** Monetización digital (plataformas freelance, cursos online).  
+- **Módulo 4:** Seguridad digital (contraseñas, estafas comunes, pagos seguros).  
+
+## 📂 Estructura del repositorio
