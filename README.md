@@ -35,7 +35,20 @@ Apoyar a adultos mayores y personas con experiencia para que sigan productivos, 
 Creado por Juan Carlos Páez, con la guía de Lia (IA educativa).
 
 ## 📚 Módulos educativos
-- **Módulo 1:** Herramientas básicas (correo, WhatsApp Web, Google Drive).  
+- **Módulo 1:** Herramientas básicas (correo, WhatsApp Web, Google Drive).
+- lia-productividad-digital/
+├── modules/
+│    ├── modulo1_herramientas_basicas.md
+│    ├── modulo2_trabajo_remoto.md
+│    ├── modulo3_monetizacion.md
+│    └── modulo4_seguridad_digital.md
+└── README.md
+
+
+## 🚀 Impacto
+Este repositorio es un recurso abierto y educativo.  
+La integración con IA convierte cada módulo en un proyecto completo: práctico, interpretativo y accesible para todos.
+
 - **Módulo 2:** Trabajo remoto (Zoom, Teams, Trello).  
 - **Módulo 3:** Monetización digital (plataformas freelance, cursos online).  
 - **Módulo 4:** Seguridad digital (contraseñas, estafas comunes, pagos seguros).  
