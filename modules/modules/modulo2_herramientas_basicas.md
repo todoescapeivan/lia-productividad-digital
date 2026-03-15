@@ -1,4 +1,4 @@
-# Módulo 1: Herramientas Básicas
+# Módulo 2: Comunicación Digital  
 
 ## Objetivo
 Aprender a usar herramientas digitales esenciales para la comunicación y organización.
